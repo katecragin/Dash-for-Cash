@@ -193,7 +193,7 @@ def update_table(games, card_prices):
     # html.A('Click Here for the Latest Ma$$ Lottery Instant Games', href='https://www.masslottery.com/games/draw-and-instants?game_types=Instant', 
     #        target='_Blank')
 
-    
+server = app.server
 
 if __name__ == '__main__': 
     app.run_server(debug=True)
