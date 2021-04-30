@@ -2,9 +2,7 @@
 
 This repository contains files used in the MA705 dashboard project.
 
-Use Markdown to write your readme.md file.  Here is a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
-
-The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
+The final dashboard is deployed on Heroku [here](https://dash-for-cash.herokuapp.com/).
 
 ## Dashboard Description
 
